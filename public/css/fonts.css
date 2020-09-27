@@ -145,12 +145,12 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 
    @font-face {
-   font-family: 'opensans-semibold';
+   font-family: 'opensans-bolder';
    src: url('fonts/opensans/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
    }
 
    @font-face {
-   font-family: 'opensans-bold';
+   font-family: 'opensans-bolder';
    src: url('fonts/opensans/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
    }
 
